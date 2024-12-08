@@ -24,4 +24,4 @@ A responsive and user-friendly calculator built using the **Bootstrap CSS framew
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone:(https://github.com/srinilayapasupureedi/calculator_using_bootstrap)
